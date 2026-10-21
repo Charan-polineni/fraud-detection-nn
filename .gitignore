@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets - never upload these
+.env
+*.pem
+*.key
+
+# Large or private data and models
+data/*.csv
+models/*.joblib
+
+# OS / editor files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
