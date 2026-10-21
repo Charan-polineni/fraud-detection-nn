@@ -59,5 +59,4 @@ Python, pandas, NumPy, scikit-learn, matplotlib, joblib
 - Deploy the model as an endpoint on AWS SageMaker
 - Add model monitoring for data drift
 
-## Author
-Charan Venkat Polineni | [LinkedIn](https://www.linkedin.com/in/your-profile)
+
